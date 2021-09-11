@@ -1,0 +1,9 @@
+{
+  "name": "remises-nb-modules",
+  "version": "0.0.0",
+  "description": "RemisesNbModules",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
